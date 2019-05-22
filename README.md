@@ -1,4 +1,4 @@
-# Whatsapp Bot
+# Whatsapp Automation Bot
 
 ### Setup
 1. Install Python - https://www.python.org/downloads/
